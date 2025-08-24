@@ -1,0 +1,80 @@
+player_name,position,team,draft_year,draft_round,draft_pick,expected_role,impact_level,notes,target_threshold
+Dillon Gabriel,QB,CLE,2025,3,94,QB2,MEDIUM,,400+ pass attempts
+Shedeur Sanders,QB,CLE,2025,5,144,QB3,LOW,,400+ pass attempts
+Riley Leonard,QB,IND,2025,6,189,QB3,LOW,,400+ pass attempts
+Tyler Shough,QB,NO,2025,2,40,QB1,HIGH,,400+ pass attempts
+Jaxson Dart,QB,NYG,2025,1,25,QB2,MEDIUM,,400+ pass attempts
+Will Howard,QB,PIT,2025,6,185,QB2,LOW,,400+ pass attempts
+Jalen Milroe,QB,SEA,2025,3,92,QB2,LOW,,400+ pass attempts
+Cameron Ward,QB,TEN,2025,1,1,QB1,HIGH,,400+ pass attempts
+Trevor Etienne,RB,CAR,2025,4,114,RB3,MEDIUM,,150+ carries or 50+ targets
+Kyle Monangai,RB,CHI,2025,7,233,RB3,LOW,,150+ carries or 50+ targets
+Tahj Brooks,RB,CIN,2025,6,193,RB3,LOW,,150+ carries or 50+ targets
+Dylan Sampson,RB,CLE,2025,4,126,RB3,LOW,,150+ carries or 50+ targets
+Quinshon Judkins,RB,CLE,2025,2,36,RB1,HIGH,,150+ carries or 50+ targets
+Jaydon Blue,RB,DAL,2025,5,149,RB2,MEDIUM,,150+ carries or 50+ targets
+Phil Mafah,RB,DAL,2025,7,239,RB3,LOW,,150+ carries or 50+ targets
+R.J. Harvey,RB,DEN,2025,2,60,RB1,HIGH,,150+ carries or 50+ targets
+Woody Marks,RB,HOU,2025,4,116,RB3,MEDIUM,,150+ carries or 50+ targets
+D.J. Giddens,RB,IND,2025,5,151,RB3,MEDIUM,,150+ carries or 50+ targets
+Bhayshul Tuten,RB,JAX,2025,4,104,RB2,MEDIUM,,150+ carries or 50+ targets
+LeQuint Allen,RB,JAX,2025,7,236,RB4,LOW,,150+ carries or 50+ targets
+Brashard Smith,RB,KC,2025,7,288,RB3,LOW,,150+ carries or 50+ targets
+Jarquez Hunter,RB,LA,2025,4,117,RB3,LOW,,150+ carries or 50+ targets
+Omarion Hampton,RB,LAC,2025,1,22,RB1,HIGH,,150+ carries or 50+ targets
+Ashton Jeanty,RB,LV,2025,1,6,RB1,HIGH,,150+ carries or 50+ targets
+Ollie Gordon,RB,MIA,2025,6,179,RB3,LOW,,150+ carries or 50+ targets
+TreVeyon Henderson,RB,NE,2025,2,38,RB1,HIGH,,150+ carries or 50+ targets
+Devin Neal,RB,NO,2025,6,148,RB3,LOW,,150+ carries or 50+ targets
+Cam Skattebo,RB,NYG,2025,4,105,RB2,MEDIUM,,150+ carries or 50+ targets
+Kaleb Johnson,RB,PIT,2025,3,83,RB1,HIGH,,150+ carries or 50+ targets
+Jordan James,RB,SF,2025,5,147,RB3,LOW,,150+ carries or 50+ targets
+Kalel Mullings,RB,TEN,2025,6,188,RB3,LOW,,150+ carries or 50+ targets
+Jacory Croskey-Merritt,RB,WAS,2025,7,245,RB3,LOW,,150+ carries or 50+ targets
+Jackson Hawes,TE,BUF,2025,5,173,blocking_te,LOW,,60+ targets
+Mitchell Evans,TE,CAR,2025,5,163,TE3,LOW,,60+ targets
+Colston Loveland,TE,CHI,2025,1,10,TE1,HIGH,,60+ targets
+Harold Fannin,TE,CLE,2025,3,67,TE2,MEDIUM,,60+ targets
+Caleb Lohner,TE,DEN,2025,7,241,TE3,LOW,,60+ targets
+Luke Lachey,TE,HOU,2025,7,255,TE3,LOW,,60+ targets
+Tyler Warren,TE,IND,2025,1,14,TE1,HIGH,,60+ targets
+Terrance Ferguson,TE,LA,2025,2,46,TE2,MEDIUM,,60+ targets
+Oronde Gadsden,TE,LAC,2025,5,165,TE3,LOW,,60+ targets
+Gavin Bartholomew,TE,MIN,2025,6,202,TE3,LOW,,60+ targets
+Moliki Matavao,TE,NO,2025,7,248,TE3,LOW,,60+ targets
+Thomas Fidone,TE,NYG,2025,7,219,TE3,LOW,,60+ targets
+Mason Taylor,TE,NYJ,2025,2,42,TE1,HIGH,,60+ targets
+Robbie Ouzts,TE,SEA,2025,5,175,blocking_te,LOW,,60+ targets
+Elijah Arroyo,TE,SEA,2025,2,50,TE2,MEDIUM,,60+ targets
+Gunnar Helm,TE,TEN,2025,4,120,TE3,LOW,,60+ targets
+LaJohntay Wester,WR,BAL,2025,6,203,WR4,LOW,,80+ targets
+Kaden Prather,WR,BUF,2025,7,240,WR4,LOW,,80+ targets
+Jimmy Horn,WR,CAR,2025,6,208,WR3,LOW,,80+ targets
+Tetairoa McMillan,WR,CAR,2025,1,8,WR1,HIGH,,80+ targets
+Luther Burden,WR,CHI,2025,2,39,WR4,MEDIUM,,80+ targets
+Pat Bryant,WR,DEN,2025,3,74,WR3,MEDIUM,,80+ targets
+Dominic Lovett,WR,DET,2025,7,244,WR4,LOW,,80+ targets
+Isaac TeSlaa,WR,DET,2025,3,70,WR3,LOW,,80+ targets
+Matthew Golden,WR,GB,2025,1,23,WR2,MEDIUM,,80+ targets
+Savion Williams,WR,GB,2025,3,87,WR3,LOW,,80+ targets
+Jayden Higgins,WR,HOU,2025,2,34,WR2,MEDIUM,,80+ targets
+Jaylin Noel,WR,HOU,2025,3,79,WR3,MEDIUM,,80+ targets
+Travis Hunter,WR,JAX,2025,1,2,WR2,HIGH,,80+ targets
+Jalen Royals,WR,KC,2025,4,133,WR4,LOW,,80+ targets
+Konata Mumpfield,WR,LA,2025,7,242,WR4,LOW,,80+ targets
+KeAndre Lambert-Smith,WR,LAC,2025,5,158,WR4,LOW,,80+ targets
+Tre Harris,WR,LAC,2025,2,55,WR2,MEDIUM,,80+ targets
+Dont'e Thornton,WR,LV,2025,4,108,WR4,MEDIUM,,80+ targets
+Jack Bech,WR,LV,2025,2,58,WR2,MEDIUM,,80+ targets
+Tai Felton,WR,MIN,2025,3,102,WR3,LOW,,80+ targets
+Kyle Williams,WR,NE,2025,3,69,WR3,MEDIUM,,80+ targets
+Arian Smith,WR,NYJ,2025,4,110,WR4,LOW,,80+ targets
+Ricky White,WR,SEA,2025,7,238,WR4,LOW,,80+ targets
+Tory Horton,WR,SEA,2025,5,166,WR3,LOW,,80+ targets
+Jordan Watkins,WR,SF,2025,4,138,WR4 ,LOW,,80+ targets
+Junior Bergen,WR,SF,2025,7,252,WR4,LOW,,80+ targets
+Emeka Egbuka,WR,TB,2025,1,19,WR2,HIGH,,80+ targets
+Tez Johnson,WR,TB,2025,7,235,WR4,LOW,,80+ targets
+Chimere Dike,WR,TEN,2025,4,103,WR4,LOW,,80+ targets
+Elic Ayomanor,WR,TEN,2025,4,136,WR3,LOW,,80+ targets
+Jaylin Lane,WR,WAS,2025,4,128,WR4,LOW,,80+ targets

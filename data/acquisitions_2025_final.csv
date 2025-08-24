@@ -1,0 +1,114 @@
+player_name,position,new_team,previous_team,acquisition_year,move_type,expected_role,impact_level,opportunity_gained,opportunity_lost,notes,target_threshold
+Jacoby Brissett,QB,ARI,NE,2025,free_agent,QB2,LOW,,,,400+ pass attempts
+Easton Stick,QB,ATL,LAC,2025,free_agent,QB3,LOW,,,,400+ pass attempts
+Cooper Rush,QB,BAL,DAL,2025,free_agent,QB2,LOW,,,,400+ pass attempts
+Case Keenum,QB,CHI,HOU,2025,free_agent,QB3,LOW,,,,400+ pass attempts
+Joe Flacco,QB,CLE,IND,2025,free_agent,QB1,HIGH,,,"will start wk1, then rookie get time",400+ pass attempts
+Kenny Pickett,QB,CLE,PHI,2025,trade,QB3,LOW,,,,400+ pass attempts
+Sam Ehlinger,QB,DEN,IND,2025,free_agent,QB3,LOW,,,,400+ pass attempts
+Kyle Allen,QB,DET,PIT,2025,free_agent,QB3,LOW,,,,400+ pass attempts
+Daniel Jones,QB,IND,MIN,2025,free_agent,QB1,HIGH,,,will start until season is out of hand,400+ pass attempts
+Nick Mullens,QB,JAX,MIN,2025,free_agent,QB2,LOW,,,,400+ pass attempts
+Bailey Zappe,QB,KC,CLE,2025,free_agent,QB3,LOW,,,,400+ pass attempts
+Gardner Minshew,QB,KC,LV,2025,free_agent,QB2,LOW,,,,400+ pass attempts
+Trey Lance,QB,LAC,DAL,2025,free_agent,QB3,LOW,,,,400+ pass attempts
+Geno Smith,QB,LV,SEA,2025,trade,QB1,HIGH,,,,400+ pass attempts
+Zach Wilson,QB,MIA,DEN,2025,free_agent,QB2,LOW,,,,400+ pass attempts
+Sam Howell,QB,MIN,SEA,2025,free_agent,QB2,LOW,,,,400+ pass attempts
+Joshua Dobbs,QB,NE,SF,2025,free_agent,QB2,LOW,,,,400+ pass attempts
+Jameis Winston,QB,NYG,CLE,2025,free_agent,QB2,MEDIUM,,,will start if Wilson is bad but still chance to win games,400+ pass attempts
+Russell Wilson,QB,NYG,PIT,2025,free_agent,QB1,HIGH,,,"will start wk1, then rookie get time",400+ pass attempts
+Justin Fields,QB,NYJ,PIT,2025,free_agent,QB1,HIGH,,,,400+ pass attempts
+Dorian Thompson-Robinson,QB,PHI,CLE,2025,free_agent,QB3,LOW,,,,400+ pass attempts
+Aaron Rodgers,QB,PIT,NYJ,2025,free_agent,QB1,HIGH,,,,400+ pass attempts
+Mason Rudolph,QB,PIT,TEN,2025,free_agent,QB2,LOW,,,,400+ pass attempts
+Skylar Thompson,QB,PIT,MIA,2025,free_agent,QB3,LOW,,,,400+ pass attempts
+Drew Lock,QB,SEA,NYG,2025,free_agent,QB2,LOW,,,,400+ pass attempts
+Sam Darnold,QB,SEA,MIN,2025,free_agent,QB1,HIGH,,,,400+ pass attempts
+Mac Jones,QB,SF,JAX,2025,free_agent,QB2,LOW,,,,400+ pass attempts
+Brandon Allen,QB,TEN,SF,2025,free_agent,QB2,LOW,,,,400+ pass attempts
+Tim Boyle,QB,TEN,NYG,2025,free_agent,QB3,LOW,,,,400+ pass attempts
+Josh Johnson,QB,WAS,BAL,2025,free_agent,QB3,LOW,,,,400+ pass attempts
+Rico Dowdle,RB,CAR,DAL,2025,free_agent,RB2,MEDIUM,,,,150+ carries or 50+ targets
+Samaje Perine,RB,CIN,KC,2025,free_agent,RB3,LOW,,,,150+ carries or 50+ targets
+Javonte Williams,RB,DAL,DEN,2025,free_agent,RB1,HIGH,,,,150+ carries or 50+ targets
+Miles Sanders,RB,DAL,CAR,2025,free_agent,RB2,MEDIUM,,,,150+ carries or 50+ targets
+J.K. Dobbins,RB,DEN,LAC,2025,free_agent,RB1,HIGH,,,,150+ carries or 50+ targets
+Nick Chubb,RB,HOU,CLE,2025,free_agent,RB2,MEDIUM,,,,150+ carries or 50+ targets
+Khalil Herbert,RB,IND,CIN,2025,free_agent,RB2,MEDIUM,,,,150+ carries or 50+ targets
+Elijah Mitchell,RB,KC,SF,2025,free_agent,RB2,LOW,,,,150+ carries or 50+ targets
+Najee Harris,RB,LAC,PIT,2025,free_agent,RB1,HIGH,,,,150+ carries or 50+ targets
+Raheem Mostert,RB,LV,MIA,2025,free_agent,RB2,MEDIUM,,,,150+ carries or 50+ targets
+Alexander Mattison,RB,MIA,LV,2025,free_agent,RB3,LOW,,,,150+ carries or 50+ targets
+Jordan Mason,RB,MIN,SF,2025,free_agent,RB2,MEDIUM,,,,150+ carries or 50+ targets
+Cam Akers,RB,NO,MIN,2025,free_agent,RB2,MEDIUM,,,,150+ carries or 50+ targets
+Kenneth Gainwell,RB,PIT,PHI,2025,free_agent,RB3,LOW,,,,150+ carries or 50+ targets
+Trey Sermon,RB,PIT,IND,2025,free_agent,RB4,LOW,,,,150+ carries or 50+ targets
+Tyrion Davis-Price,RB,TEN,PHI,2025,free_agent,RB4,LOW,,,,150+ carries or 50+ targets
+Feleipe Franks,TE,ATL,CAR,2025,free_agent,TE3,LOW,,,,60+ targets
+James Mitchell,TE,CAR,DET,2025,free_agent,TE3,LOW,,,,60+ targets
+Durham Smythe,TE,CHI,MIA,2025,free_agent,TE2,LOW,,,,60+ targets
+Sal Cannella,TE,CLE,TB,2025,free_agent,TE3,LOW,,,,60+ targets
+Evan Engram,TE,DEN,JAX,2025,free_agent,TE1,HIGH,,,,60+ targets
+Kenny Yeboah,TE,DET,NYJ,2025,free_agent,TE3,LOW,,,,60+ targets
+Hunter Long,TE,JAX,LA,2025,free_agent,TE2,MEDIUM,,,,60+ targets
+Johnny Mundt,TE,JAX,MIN,2025,free_agent,TE3,LOW,,,,60+ targets
+Quintin Morris,TE,JAX,BUF,2025,free_agent,special_teams,LOW,,,,60+ targets
+Kevin Foelsch,TE,KC,PHI,2025,free_agent,TE3,LOW,,,,60+ targets
+Tyler Conklin,TE,LAC,NYJ,2025,free_agent,TE2,MEDIUM,,,,60+ targets
+Ian Thomas,TE,LV,CAR,2025,free_agent,TE3,LOW,,,,60+ targets
+Pharaoh Brown,TE,MIA,SEA,2025,free_agent,TE3,LOW,,,,60+ targets
+Darren Waller,TE,MIA,NYG,2025,trade,TE1,HIGH,,,,60+ targets
+Giovanni Ricci,TE,MIN,CLE,2025,free_agent,TE3,LOW,,,,60+ targets
+Jack Stoll,TE,NO,MIA,2025,free_agent,TE3,LOW,,,,60+ targets
+Stone Smartt,TE,NYJ,LAC,2025,free_agent,TE3,LOW,,,,60+ targets
+Harrison Bryant,TE,PHI,LV,2025,free_agent,TE3,LOW,,,,60+ targets
+Kylen Granson,TE,PHI,IND,2025,free_agent,TE3,LOW,,,,60+ targets
+Donald Parham,TE,PIT,DEN,2025,free_agent,TE3,LOW,,,,60+ targets
+Jonnu Smith,TE,PIT,MIA,2025,free_agent,TE1,HIGH,,,,60+ targets
+Eric Saubert,TE,SEA,SF,2025,free_agent,TE3,LOW,,,,60+ targets
+Luke Farrell,TE,SF,JAX,2025,free_agent,TE3,LOW,,,,60+ targets
+Ross Dwelley,TE,SF,ATL,2025,free_agent,TE3,LOW,,,,60+ targets
+Quez Watkins,WR,ARI,PIT,2025,free_agent,WR4,LOW,,,,80+ targets
+Simi Fehoko,WR,ARI,LAC,2025,free_agent,WR4,LOW,,,,80+ targets
+Jamal Agnew,WR,ATL,PIT,2025,free_agent,special_teams,LOW,,,,80+ targets
+DeAndre Hopkins,WR,BAL,KC,2025,free_agent,WR2,HIGH,,,,80+ targets
+Elijah Moore,WR,BUF,CLE,2025,free_agent,WR4,LOW,,,,80+ targets
+Josh Palmer,WR,BUF,LAC,2025,free_agent,WR2,MEDIUM,,,,80+ targets
+Devin Duvernay,WR,CHI,JAX,2025,free_agent,WR4,LOW,,,,80+ targets
+Olamide Zaccheaus,WR,CHI,WAS,2025,free_agent,WR4,LOW,,,,80+ targets
+Diontae Johnson,WR,CLE,HOU,2025,free_agent,WR3,MEDIUM,,,,80+ targets
+George Pickens,WR,DAL,PIT,2025,trade,WR2,HIGH,,,,80+ targets
+Parris Campbell,WR,DAL,PHI,2025,free_agent,WR4,LOW,,,,80+ targets
+Trent Sherfield,WR,DEN,MIN,2025,free_agent,WR4,LOW,,,,80+ targets
+Ronnie Bell,WR,DET,SF,2025,free_agent,WR4,LOW,,,,80+ targets
+Mecole Hardman,WR,GB,KC,2025,free_agent,special_teams,LOW,,,,80+ targets
+Braxton Berrios,WR,HOU,MIA,2025,free_agent,WR4,LOW,,,,80+ targets
+Christian Kirk,WR,HOU,JAX,2025,free_agent,WR2,MEDIUM,,,,80+ targets
+Justin Watson,WR,HOU,KC,2025,free_agent,WR4,LOW,,,,80+ targets
+Dyami Brown,WR,JAX,WAS,2025,free_agent,WR3,MEDIUM,,,,80+ targets
+Britain Covey,WR,LA,PHI,2025,free_agent,WR4,LOW,,,,80+ targets
+Davante Adams,WR,LA,NYJ,2025,free_agent,WR2,HIGH,,,,80+ targets
+Mike Williams,WR,LAC,PIT,2025,free_agent,WR3,MEDIUM,,,,80+ targets
+Collin Johnson,WR,LV,CHI,2025,free_agent,WR4,LOW,,,,80+ targets
+Kyle Philips,WR,LV,PHI,2025,free_agent,WR4,LOW,,,,80+ targets
+Nick Westbrook-Ikhine,WR,MIA,TEN,2025,free_agent,WR3,MEDIUM,,,,80+ targets
+Rondale Moore,WR,MIN,ATL,2025,free_agent,WR4,LOW,,,,80+ targets
+Mack Hollins,WR,NE,BUF,2025,free_agent,WR3,MEDIUM,,,,80+ targets
+Stefon Diggs,WR,NE,HOU,2025,free_agent,WR1,HIGH,,,,80+ targets
+Brandin Cooks,WR,NO,DAL,2025,free_agent,WR3,MEDIUM,,,,80+ targets
+Donovan Peoples-Jones,WR,NO,DET,2025,free_agent,WR4,LOW,,,,80+ targets
+Lil'Jordan Humphrey,WR,NYG,DEN,2025,free_agent,WR4,LOW,,,,80+ targets
+Zach Pascal,WR,NYG,ARI,2025,free_agent,WR4,LOW,,,,80+ targets
+Josh Reynolds,WR,NYJ,JAX,2025,free_agent,WR4,LOW,,,,80+ targets
+Tyler Johnson,WR,NYJ,LA,2025,free_agent,WR4,LOW,,,,80+ targets
+DK Metcalf,WR,PIT,SEA,2025,free_agent,WR1,HIGH,,,,80+ targets
+Robert Woods,WR,PIT,HOU,2025,free_agent,WR3,MEDIUM,,,,80+ targets
+Cooper Kupp,WR,SEA,LA,2025,free_agent,WR2,MEDIUM,,,,80+ targets
+Marquez Valdes-Scantling,WR,SEA,NO,2025,free_agent,WR4,LOW,,,,80+ targets
+Demarcus Robinson,WR,SF,LA,2025,free_agent,WR4,LOW,,,,80+ targets
+Isaiah Hodgins,WR,SF,NYG,2025,free_agent,WR4,LOW,,,,80+ targets
+Tyler Lockett,WR,TEN,SEA,2025,free_agent,WR4,LOW,,,,80+ targets
+Van Jefferson,WR,TEN,PIT,2025,free_agent,WR3,LOW,,,,80+ targets
+Michael Gallup,WR,WAS,LV,2025,free_agent,WR3,MEDIUM,,,,80+ targets
+Deebo Samuel Sr.,WR,WAS,SF,2025,trade,WR2,HIGH,,,,80+ targets
